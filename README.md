@@ -40,6 +40,8 @@
 
 ###
 
+<h2 align="left">Contributions</h2>
+
 <img src="https://raw.githubusercontent.com/zikous/zikous/output/snake.svg" alt="Snake animation" />
 
 ###
