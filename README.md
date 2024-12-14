@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I was a kid<br>📚 I'm currently learning Java, and JavaScript</p>
+<p align="left">✨ Creating bugs since I was a kid<br>📚 I'm currently learning Java and JavaScript<br>🌐 Currently exploring and working on web development projects</p>
 
 ###
 
@@ -43,5 +43,3 @@
 <h2 align="left">Contributions</h2>
 
 <img src="https://raw.githubusercontent.com/zikous/zikous/output/snake.svg" alt="Snake animation" />
-
-###
