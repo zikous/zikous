@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I was a kid<br>📚 I'm currently learning Java and JavaScript<br>🌐 Currently exploring and working on web development projects</p>
+<p align="left">✨ Creating bugs since I was a kid<br>📚 Learning Java and JavaScript<br>🌐 Exploring and working on web development projects</p>
 
 ###
 
