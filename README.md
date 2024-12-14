@@ -1,18 +1,22 @@
-# Hey 👋 What's up?
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Hi, I'm **Bheddar Zakaria**, a student at CentraleSupélec. I'm passionate about **software engineering** and **machine learning**. Check out my work!
+###
 
----
+<p align="left">Hi, I'm Bheddar Zakaria, a student at CentraleSupélec. I'm passionate about software engineering and machine learning. Check out my work!</p>
 
-## About me
+###
 
-✨ Creating bugs since I was a kid  
-📚 Learning Java  
-🌐 Exploring and working on web development projects
+<h2 align="left">About me</h2>
 
----
+###
 
-## Technologies I use
+<p align="left">✨ Creating bugs since I was a kid<br>📚 Learning Java<br>🌐 Exploring and working on web development projects</p>
+
+###
+
+<h2 align="left">Technologies I use</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -36,8 +40,8 @@ Hi, I'm **Bheddar Zakaria**, a student at CentraleSupélec. I'm passionate about
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
----
+###
 
-## Contributions
+<h2 align="left">Contributions</h2>
 
-![Snake animation](https://raw.githubusercontent.com/zikous/zikous/output/snake.svg)
+<img src="https://raw.githubusercontent.com/zikous/zikous/output/snake.svg" alt="Snake animation" />
