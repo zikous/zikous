@@ -1,22 +1,18 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-###
+Hi, I'm **Bheddar Zakaria**, a student at CentraleSupélec. I'm passionate about **software engineering** and **machine learning**. Check out my work!
 
-<p align="left">Hi, I'm Bheddar Zakaria, a student at CentraleSupélec. I'm passionate about software engineering and machine learning. Check out my work!</p>
+---
 
-###
+## About me
 
-<h2 align="left">About me</h2>
+✨ Creating bugs since I was a kid  
+📚 Learning Java  
+🌐 Exploring and working on web development projects
 
-###
+---
 
-<p align="left">✨ Creating bugs since I was a kid<br>📚 Learning Java<br>🌐 Exploring and working on web development projects</p>
-
-###
-
-<h2 align="left">Technologies I use</h2>
-
-###
+## Technologies I use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -36,10 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
+---
 
-<h2 align="left">Contributions</h2>
+## Contributions
 
-<img src="https://raw.githubusercontent.com/zikous/zikous/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/zikous/zikous/output/snake.svg)
