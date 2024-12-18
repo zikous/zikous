@@ -38,9 +38,9 @@
   
   <!-- CSS Frameworks -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" height="40" alt="tailwindcss logo" class="tailwind-logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" height="40" alt="tailwindcss logo" style="fill: #38bdf8;" class="tailwind-logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
 
   <!-- Backend and DevOps -->
   <img width="12" />
