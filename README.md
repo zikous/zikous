@@ -57,14 +57,15 @@
   <h3 style="font-size: 18px;">Machine Learning & Data Science</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" height="40" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PyTorch_logo_icon.svg" height="40" alt="pytorch logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/PyTorch_logo.svg" height="40" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Numpy_logo_2020.svg" height="40" alt="numpy logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/NumPy_logo_2020.svg" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pandas_logo.svg" height="40" alt="pandas logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Pandas_logo.svg" height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
 </div>
+
 
 
 ###
