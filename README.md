@@ -27,19 +27,16 @@
 </div>
 
 <div align="left">
-  <!-- Machine Learning & Data Science -->
-  <h3 style="font-size: 18px;">Machine Learning & Data Science</h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" height="40" alt="tensorflow logo" />
+  <!-- Frontend Technologies -->
+  <h3 style="font-size: 18px;">Frontend Technologies</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/PyTorch_logo_icon.svg" height="40" alt="pytorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Numpy_logo_2020.svg" height="40" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pandas_logo.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
-
 
 <div align="left">
   <!-- CSS Frameworks -->
@@ -68,7 +65,6 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo" />
 </div>
-
 
 
 ###
