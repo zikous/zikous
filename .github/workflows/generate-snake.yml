@@ -1,0 +1,29 @@
+name: Generate Snake Game from Contributions Grid
+
+on:
+  # Trigger the workflow daily at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the snake game
+      - name: Generate Snake Game
+        uses: Platane/snk@v3.2.0
+        with:
+          # Path to save the generated SVG
+          output: dist/snake.svg
+
+      # Step 3: Commit and Push Snake Animation
+      - name: Commit and Push Snake Animation
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "dist/snake.svg"
+          message: "chore: update snake game animation"
