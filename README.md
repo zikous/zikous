@@ -64,6 +64,10 @@
 
 ###
 
-<!-- <h2 align="left">Contributions</h2>
+<h2 align="left">Snake Animation</h2>
 
-<img src="https://raw.githubusercontent.com/zikous/zikous/output/snake.svg" alt="Snake animation" /> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
