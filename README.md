@@ -64,10 +64,10 @@
 
 ###
 
-<h2 align="left">Contributions</h2>
+<h2 align="left">Snake Animation</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contributions-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-contributions.svg" />
-  <img alt="github-contributions" src="dist/github-contributions.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
