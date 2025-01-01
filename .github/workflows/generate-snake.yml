@@ -14,16 +14,24 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
 
-      # Step 2: Generate the snake game
+      # Step 2: Generate Snake Game
       - name: Generate Snake Game
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@v3
         with:
-          # Path to save the generated SVG
-          output: dist/snake.svg
+          # GitHub username (dynamically set to repository owner)
+          github_user_name: ${{ github.repository_owner }}
+
+          # Specify the files and customization options for the outputs
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Step 3: Commit and Push Snake Animation
       - name: Commit and Push Snake Animation
         uses: EndBug/add-and-commit@v9
         with:
-          add: "dist/snake.svg"
+          add: "dist/*"
           message: "chore: update snake game animation"
+          author_name: "GitHub Action"
+          author_email: "github-action@users.noreply.github.com"
