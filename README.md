@@ -17,7 +17,3 @@ Software Engineering student at **CentraleSupélec**.
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
 </div>
-
-## Contact
-
-Open to talking about projects or tech — feel free to reach out.
