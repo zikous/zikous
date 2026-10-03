@@ -2,14 +2,6 @@
 
 Software engineering student at **CentraleSupélec**, Paris.
 
-### What I like doing
-
-- 🧱 Building things end to end, from the database to the UI
-- 🦀 Systems work in Rust: interpreters, CLIs, anything that has to be fast
-- 🧠 Designing architectures that stay simple as they grow
-- 🎨 Sweating the details that make a product feel good to use
-- 🎮 Making the occasional game when I'm bored
-
 ### Stack
 
 <p>
@@ -26,3 +18,4 @@ Software engineering student at **CentraleSupélec**, Paris.
 ### Find me
 
 <a href="https://www.linkedin.com/in/zakariabheddar"><img src="https://img.shields.io/badge/LinkedIn-zakariabheddar-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/bheddar_zakaria/"><img src="https://img.shields.io/badge/Instagram-bheddar__zakaria-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
