@@ -18,11 +18,5 @@ Software engineering student at **CentraleSupélec**, Paris.
 
 ### Find me
 
-<p>
-  <a href="https://www.linkedin.com/in/zakariabheddar">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/bheddar_zakaria/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" height="40" alt="Instagram" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/zakariabheddar"><img src="https://img.shields.io/badge/LinkedIn-zakariabheddar-0A66C2" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/bheddar_zakaria/"><img src="https://img.shields.io/badge/Instagram-bheddar__zakaria-E4405F" alt="Instagram" /></a>
