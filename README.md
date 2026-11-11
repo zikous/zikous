@@ -6,8 +6,8 @@ Software engineering student at **CentraleSupélec**, Paris.
 
 | Company | Role | Location |
 |:--|:--|:--|
-| **Qube Research & Technologies** | Quantitative Technology intern | London |
-| **Société Générale** | Software engineering intern | Paris |
+| **Qube Research & Technologies** | Quantitative Developer intern | London |
+| **Société Générale** | Software Engineer intern | Paris |
 | **Digital Tech Year**, Paris Digital Lab with Illuin Technology | Intensive program, including internships at BNP Paribas and SNCF Voyageurs | Paris |
 
 ### Stack
